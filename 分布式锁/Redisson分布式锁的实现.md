@@ -58,9 +58,9 @@ Redisson基于Java实用工具包中常用接口，为使用者提供了一系�
 ### maven引入
 ```xml
 <dependency> 
-<groupId>org.redisson</groupId> 
-<artifactId>redisson</artifactId> 
-<version>${redisson.version}</version> 
+	<groupId>org.redisson</groupId> 
+	<artifactId>redisson</artifactId> 
+	<version>${redisson.version}</version> 
 </dependency>
 ```
 
